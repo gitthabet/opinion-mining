@@ -1,4 +1,5 @@
 Sentiment Analysis 
+
 ==================
 
 This project consisted of three parts. The first part is the sentiment analysis of electronic products from www.TechCrunch.com and www.CNET.com. The second part is focused on analyzing sentiment of amazon reviews for "George Foreman GRP99" product. Finally, the last part is on analyzing Macys reviews posted for "George Foreman GRP99" product.
